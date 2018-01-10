@@ -513,6 +513,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 26px;
 }
 
+.about-all-text {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
 #about .about-text:last-child {
   margin-bottom: 0;
 }
@@ -708,6 +713,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   height: 260px;
   width: 260px;
+  margin: 0 auto;
+}
+
+.enterprise-text {
+  margin-top: 15px;
 }
 
 #testimonials .profile .pic img {
@@ -752,7 +762,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Team Section
 --------------------------------*/
 #team {
-  background: #fff;
+  background: #f7f7f7;
   padding: 80px 0 60px 0;
 }
 
@@ -802,7 +812,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Contact Section
 --------------------------------*/
 #contact {
-  background: #f7f7f7;
+  background: #fff;
   padding: 80px 0;
 }
 
@@ -888,4 +898,55 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ccc;
+}
+
+.follow-text {
+  font-size: 20px;
+  margin : 0;
+}
+
+.center-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.follow-icon {
+  border-radius: 50%;
+  border: 1px solid white;
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+.service-item {
+  margin-bottom: 20px;
+}
+
+.follow-icon {
+  float: left;
+  display: table-cell;
+  background: black;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid white;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 17px;
+}
+
+.icon-padding {
+  padding-top: 10px;
+  padding-left: 1px;
+}
+
+.hover-icon:hover .follow-icon {
+  background: #fff;
+}
+
+.hover-icon:hover .follow-icon i {
+  color: black;
 }
