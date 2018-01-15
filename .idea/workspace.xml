@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed07f65-8493-487b-8692-2a6676d6ac37" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contactform/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/scss-files.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about-img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/client-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/client-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/quote_sign_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/quote_sign_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/services-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/subscribe-barcelona.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/subscribe-barcelona2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/subscribe-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-4.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactform/contactform.js" afterPath="$PROJECT_DIR$/contactform/contactform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-    </list>
+    <list default="true" id="aed07f65-8493-487b-8692-2a6676d6ac37" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="503" column="55" lean-forward="false" selection-start-line="503" selection-start-column="55" selection-end-line="503" selection-end-column="55" />
+            <state relative-caret-position="341">
+              <caret line="510" column="26" lean-forward="true" selection-start-line="510" selection-start-column="26" selection-end-line="510" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -327,6 +295,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aed07f65-8493-487b-8692-2a6676d6ac37" name="Default" comment="" />
@@ -335,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515340652552</updated>
       <workItem from="1515340655054" duration="9556000" />
-      <workItem from="1515515662053" duration="10526000" />
+      <workItem from="1515515662053" duration="10773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20082000" />
+    <option name="totallyTimeSpent" value="20329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -439,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="503" column="55" lean-forward="false" selection-start-line="503" selection-start-column="55" selection-end-line="503" selection-end-column="55" />
+        <state relative-caret-position="341">
+          <caret line="510" column="26" lean-forward="true" selection-start-line="510" selection-start-column="26" selection-end-line="510" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
